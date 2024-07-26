@@ -14,4 +14,6 @@ Let me tell you a bit more about me:
 ## Machine Learning 
 
 ## OS
-[![My Skills](https://skillicons.dev/icons?i=linux,apple,windows&perline=3)](https://skillicons.dev)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+[![Apple](https://skillicons.dev/icons?i=apple)](https://www.apple.com/macos)
+[![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/en-us/windows/)
