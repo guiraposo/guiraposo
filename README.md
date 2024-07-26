@@ -13,6 +13,8 @@ Let me tell you a bit more about me:
 
 ## Machine Learning 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"  height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="40"  />
+
 ## OS
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![Apple](https://skillicons.dev/icons?i=apple)](https://www.apple.com/macos)
